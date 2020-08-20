@@ -91,6 +91,10 @@ border-radius:75%;
     text-decoration: none;
     color:white;
 }
+#contact .link-button a{
+    text-decoration: none;
+    color:white;
+}
 #bio article{
     margin:20px;
 }
